@@ -1,0 +1,1 @@
+this is realtime shat application.user can group chat here without login and stay anonymous
